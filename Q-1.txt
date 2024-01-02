@@ -1,0 +1,2 @@
+Q-1. what is seo ?
+-> Seo stan for search engine optimization. If anyone search our webpage on browser that time SEO will help us to get top rank to our webpage. So we need to maintain proper seo in webpage.

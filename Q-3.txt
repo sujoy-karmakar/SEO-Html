@@ -1,0 +1,13 @@
+Q-3 What are the benefits of using meta tags?
+
+1- SEO->
+Meta discription and Keword help's browser to understand what is  content of our webpage. so It will help browser search engine optimization. 
+
+2 - View port Control-> 
+Meta view prot help us to build our webpage for diffrent device view. so It's Improve user view exprence.
+ it allows you to control the width and scaling of the viewport.
+
+3- Characters encoading->
+Meta Chartset tag charset encoding our webpage content . and help the browser properly interpret and display the characters of the document.
+
+4- Social Media Sharing->Meta og tags enable better presentation of our content when we seare in social media.
